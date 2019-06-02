@@ -1,14 +1,22 @@
 
-# **Quire Notepad.**
+<p align="center">
+<img src="/src/images/pazlogo.png" alt="Patrick Sjöberg logo" width="150"/>
+</p>
+
+## 🚩 Project Goal
 This is an editable notepad that a collective of students at KYH Nacka Sweden created for a team project.<br>
 We had an assignment to create a functional notepad that could store unique notes in the local storage. So let's talk about this notepads functions.
 
-### Quill Editor.
+## What’s In This Document
 
-We didn't build the text editor from the ground up. Instead, we got the editor from Quill (special thanks to them). <br>
-Quill comes with cool functions already added. Like changing font, size, adding videos or pictures etc. These will serve you well when you use it.
+- [Features](#-features)
+- [How to run this project](#-how-to-run-this-project)
+- [Attributes](#-attributes)
+- [Authors](#-authors)
 
-### Our functions.
+
+## 🔔 Features:
+
 * First time you visit our page, you are greeted with an information page that describes what you can do with our text editor. This will not show up the second time you visit.
 * Store your notes with our save function. It will store everything you write and place it in our "My Notes" section. There you can easily click on it to bring forward your notes.
 * Every time you save a note, it will add a timestamp so you know how long ago you worked on your note.
@@ -19,21 +27,27 @@ Clicking on the bigger star in our nav section will bring forward all of your fa
 
 ![Alt text](/img/quirepage.png "Our Quire Notepad")
 
-### Attribution.
+## 💻 How to run this project
+1. **Install from the root folder, GJTP**
+
+   ```shell
+   npm install
+
+   ```
+2. **Then just run the app**
+  
+   ```shell
+   npm start
+
+
+## 👏 Attributes
 <a href="https://fontawesome.com/">Font Awesome</a> For the icons that we have used.<br>
 <a href="https://quilljs.com/">Quill</a> For the editor that we have used.<br>
 Also our teachers that helped us navigate trough the jungle of code.
 
-### For developers.
-The tricky parts in our Javascript functions have explanations in comment form next to the functions.
-
-### Links.
-<a href="https://trello.com/b/7lwlkFM2/taurus">Taurus Trello Board</a>
-
-### Authors.
+## 📓 Authors
 Tina Olsson <a href="https://github.com/tinaolsson">@tinaolsson</a> <br>
 Sara Överström <a href="https://github.com/oversteem">@oversteem</a><br>
 Edward Kumerius <a href="https://github.com/Eddyking1">@Eddyking1</a> <br>
 Patrick Sjöberg <a href="https://github.com/pazsea">@pazsea</a> 
 Azamat Azhibayev <a href="https://github.com/bayev">@bayev</a> 
-# quire-notepad
