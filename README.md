@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="/src/images/pazlogo.png" alt="Patrick Sjöberg logo" width="150"/>
+<img src="/img/taurus.png" alt="Taurus logo" width="150"/>
 </p>
 
 ## 🚩 Project Goal
