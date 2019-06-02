@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="/img/taurus.png" alt="Taurus logo" width="150"/>
+<img src="/img/taurus.png" alt="Taurus logo" width="250"/>
 </p>
 
 ## 🚩 Project Goal
